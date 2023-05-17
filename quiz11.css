@@ -6,10 +6,8 @@
 .flex-container {
     justify-content: flex-start;
 
-    width: 75%;
-    /* 宽度为父容器的75% */
-    height: 100%;
-    /* 高度为父容器的100% */
+    width: 75%; /* Width is set to 75% of the parent container */
+  height: 100%; /* Height is set to 100% of the parent container */
     display: flex;
     padding: 15px;
     gap: 5px;
